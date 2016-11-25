@@ -1,0 +1,149 @@
+/* style */
+
+
+  .glyphicon-bookmark {
+    color: black !important;
+    
+  }
+  
+  .active{
+  
+  color:royalblue !important;
+  }
+  
+.bookActive{
+  color:royalblue !important;	
+	
+}
+
+.tangcloud {
+    height: 500px;
+    width: 500px;
+}
+
+.tangcloud span {
+    line-height: 100%;
+}
+
+.tangcloud-item-1 {
+    font-size: 1.3em;
+    color: darkcyan;
+}
+
+.tangcloud-item-2 {
+    font-size: 1.6em;
+    color: palevioletred !important;
+}
+
+.tangcloud-item-3 {
+    font-size: 1.9em;
+    color: #181818;
+}
+
+.tangcloud-item-4 {
+    font-size: 2.2em;
+    color: #303030;
+}
+
+.tangcloud-item-5 {
+    font-size: 2.5em;
+    color: #282828;
+}
+
+.tangcloud-item-6 {
+    font-size: 2.8em;
+    color: #202020 !important;
+}
+
+.tangcloud-item-7 {
+    font-size: 3.1em;
+    color: lightsalmon !important;
+}
+
+.tangcloud-item-8 {
+    font-size: 3.4em;
+    color: #404040 !important;
+}
+
+.tangcloud-item-9 {
+    font-size: 3.7em;
+    color: #202020 !important; 
+}
+
+.tangcloud-item-10 {
+    font-size: 4em;
+    color: brown !important;
+}
+
+.clearance{
+	font-size: 3.7em;
+    color: lightsalmon !important;
+	
+}
+.new{
+	
+	font-size: 4.1em;
+    color: royalblue !important;
+}
+
+
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: gray;
+    
+}
+
+.tangcloud-item-hidden {
+    visibility: hidden;
+}
+
+/* Float the list items side by side */
+ul.tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 37px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {background-color: #ddd;}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {color:black}
+
+/* Style the tab content */
+.tabcontent {
+     display:none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    background-color:ivory;
+    margin-bottom:10px
+}
+#div1{
+	height:auto;
+	}
+p a{margin-left:10px;color:DodgerBlue;}
+#a1{margin-left:10px;color:DodgerBlue;}
+/* a[ng-click]{
+    cursor: pointer; */
+}
+/*.changed{
+	color:white;
+	background-color
+	
+}*/
+
+
+

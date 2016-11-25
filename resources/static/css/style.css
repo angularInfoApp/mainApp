@@ -1,0 +1,76 @@
+/*style sheet  */
+
+.tangcloud {
+    height: 500px;
+    width: 500px;
+}
+
+.tangcloud span {
+    line-height: 100%;
+}
+
+.tangcloud-item-1 {
+    font-size: 1.3em;
+    color: aquamarine !important;
+}
+
+.tangcloud-item-2 {
+    font-size: 1.6em;
+    color: palevioletred !important;
+}
+
+.tangcloud-item-3 {
+    font-size: 1.9em;
+    color: #181818;
+}
+
+.tangcloud-item-4 {
+    font-size: 2.2em;
+    color: #303030;
+}
+
+.tangcloud-item-5 {
+    font-size: 2.5em;
+    color: #282828;
+}
+
+.tangcloud-item-6 {
+    font-size: 2.8em;
+    color: #202020 !important;
+}
+
+.tangcloud-item-7 {
+    font-size: 3.1em;
+    color: lightsalmon !important;
+}
+
+.tangcloud-item-8 {
+    font-size: 3.4em;
+    color: #404040 !important;
+}
+
+.tangcloud-item-9 {
+    font-size: 3.7em;
+    color: #202020 !important; 
+}
+
+.tangcloud-item-10 {
+    font-size: 4em;
+    color: brown !important;
+}
+
+.clearance{
+	font-size: 3.7em;
+    color: lightsalmon !important;
+	
+}
+.new{
+	
+	font-size: 4.1em;
+    color: royalblue !important;
+}
+
+.tangcloud-item-hidden {
+    visibility: visible;
+}
+
